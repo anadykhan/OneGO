@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneGO", "OneGO\OneGO.csproj", "{A0BBF47D-5B2F-4546-9F89-276877743FFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{A3E8CEF0-D744-4349-9AD1-92DF39F561F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{46020B75-3464-4631-BA0F-EB76E3B1896D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A0BBF47D-5B2F-4546-9F89-276877743FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0BBF47D-5B2F-4546-9F89-276877743FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0BBF47D-5B2F-4546-9F89-276877743FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E8CEF0-D744-4349-9AD1-92DF39F561F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E8CEF0-D744-4349-9AD1-92DF39F561F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E8CEF0-D744-4349-9AD1-92DF39F561F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E8CEF0-D744-4349-9AD1-92DF39F561F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46020B75-3464-4631-BA0F-EB76E3B1896D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46020B75-3464-4631-BA0F-EB76E3B1896D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46020B75-3464-4631-BA0F-EB76E3B1896D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46020B75-3464-4631-BA0F-EB76E3B1896D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
